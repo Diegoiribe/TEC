@@ -314,38 +314,20 @@
   align-items: center;
 }
 .container__principal .container__heater--registro .nav .nav--elemento .nav--logo .nav__logo--img {
-  background: url(../img/mandothree.png);
-  width: 50px;
-  height: 50px;
+  background: url(../img/logo-itc.svg);
+  width: 60px;
+  height: 60px;
   transition: 0.6s;
-}
-.container__principal .container__heater--registro .nav .nav--elemento .nav--logo .nav__logo--img.img--one {
-  background: url(../img/mandoone.png);
-}
-.container__principal .container__heater--registro .nav .nav--elemento .nav--logo .nav__logo--img.img--second {
-  background: url(../img/mandosecond.png);
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .container__principal .container__heater--registro .nav .nav--elemento .nav--logo .nav__logo--text {
-  background: url(../img/Textothree.png);
+  background: url(../img/logo-tecnm.svg);
   background-repeat: no-repeat;
   background-position: center;
   width: 176px;
-  height: 50px;
+  height: 60px;
   transition: 0.6s;
-}
-.container__principal .container__heater--registro .nav .nav--elemento .nav--logo .nav__logo--text.img--one {
-  background: url(../img/Textoone.png);
-  background-repeat: no-repeat;
-  background-position: center;
-  width: 176px;
-  height: 50px;
-}
-.container__principal .container__heater--registro .nav .nav--elemento .nav--logo .nav__logo--text.img--second {
-  background: url(../img/Textosecond.png);
-  background-repeat: no-repeat;
-  background-position: center;
-  width: 176px;
-  height: 50px;
 }
 .container__principal .container__heater--registro .nav .nav--elemento .nav--search {
   background: #f5f5f5;

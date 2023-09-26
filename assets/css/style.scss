@@ -348,38 +348,21 @@
 					justify-content: space-between;
 					align-items: center;
 					.nav__logo--img {
-						background: URL(../img/mandothree.png);
-						width: 50px;
-						height: 50px;
+						background: URL(../img/logo-itc.svg);
+						width: 60px;
+						height: 60px;
 						transition: 0.6s;
+						background-repeat: no-repeat;
+						background-position: center;
 					}
-					.nav__logo--img.img--one {
-						background: URL(../img/mandoone.png);
-					}
-					.nav__logo--img.img--second {
-						background: URL(../img/mandosecond.png);
-					}
+
 					.nav__logo--text {
-						background: URL(../img/Textothree.png);
+						background: URL(../img/logo-tecnm.svg);
 						background-repeat: no-repeat;
 						background-position: center;
 						width: 176px;
-						height: 50px;
+						height: 60px;
 						transition: 0.6s;
-					}
-					.nav__logo--text.img--one {
-						background: URL(../img/Textoone.png);
-						background-repeat: no-repeat;
-						background-position: center;
-						width: 176px;
-						height: 50px;
-					}
-					.nav__logo--text.img--second {
-						background: URL(../img/Textosecond.png);
-						background-repeat: no-repeat;
-						background-position: center;
-						width: 176px;
-						height: 50px;
 					}
 				}
 				.nav--search {
