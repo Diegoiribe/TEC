@@ -388,7 +388,7 @@
 }
 .container__principal .container__registro .registro h1 {
   margin-bottom: 16px;
-  color: #be011a;
+  color: var(--colorsecundarioimgthree);
 }
 .container__principal .container__registro .registro select {
   width: 535px;
@@ -433,10 +433,10 @@
   height: 52px;
   margin-bottom: 16px;
   border-radius: 5px;
-  border: 2px solid #be011a;
+  border: 2px solid var(--colorsecundarioimgthree);
 }
 .container__principal .container__registro .registro button p {
-  color: #be011a;
+  color: var(--colorsecundarioimgthree);
 }
 .container__principal .container__body {
   width: 100vw;

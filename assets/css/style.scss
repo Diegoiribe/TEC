@@ -428,7 +428,7 @@
 			flex-direction: column;
 			h1 {
 				margin-bottom: 16px;
-				color: #be011a;
+				color: var(--colorsecundarioimgthree);
 			}
 			select {
 				width: 535px;
@@ -470,9 +470,9 @@
 				height: 52px;
 				margin-bottom: 16px;
 				border-radius: 5px;
-				border: 2px solid #be011a;
+				border: 2px solid var(--colorsecundarioimgthree);
 				p {
-					color: #be011a;
+					color: var(--colorsecundarioimgthree);
 				}
 			}
 		}
