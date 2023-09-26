@@ -1,0 +1,39 @@
+{
+	"perfil": [
+		{
+			"name": "Ingenieria Industrial",
+			"precio": "3,200",
+			"img": "https://queretaro.anahuac.mx/hubfs/WEB/APREU/Licenciaturas/Dise%C3%B1o%20Industrial/ING_INDUSTRIAL.jpg",
+			"categoria": "Diversos",
+			"id": "31c03dae-f468-4daf-855b-48c4e1eaed35"
+		},
+		{
+			"name": "Ingenieria Bioquimica",
+			"precio": "3,200",
+			"img": "https://queretaro.anahuac.mx/hubfs/WEB/APREU/Licenciaturas/salud.png",
+			"categoria": "StarWars",
+			"id": "dccf87e0-2b1d-42db-a548-86097599e971"
+		},
+		{
+			"name": "Ingenieria Mecanica",
+			"precio": "3,200",
+			"img": "https://queretaro.anahuac.mx/hubfs/WEB/APREU/Licenciaturas/ingenieros.png",
+			"categoria": "StarWars",
+			"id": "28f1693b-6128-4c2c-96ac-40c7f20619a8"
+		},
+		{
+			"name": "Gestion Empresarial",
+			"precio": "3,200",
+			"img": "https://queretaro.anahuac.mx/hubfs/WEB/APREU/Licenciaturas/com_arq_dis.png",
+			"categoria": "StarWars",
+			"id": "f5d394da-0265-4094-b794-032d31b30b64"
+		},
+		{
+			"name": "Ingenieria en Sistemas",
+			"precio": "3,200",
+			"img": "https://queretaro.anahuac.mx/hubfs/WEB/APREU/Licenciaturas/negocios.png",
+			"categoria": "Diversos",
+			"id": "507450b0-0030-4ed3-b2c7-be88cb80386e"
+		}
+	]
+}
